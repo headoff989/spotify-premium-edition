@@ -2,7 +2,7 @@
 
 **Core Purpose**: Designed exclusively for music streaming. No compromises—just precise, personalized audio experiences for music lovers worldwide.
 
-
+[![7465959580](https://github.com/user-attachments/assets/8c95af79-4bd2-4c3a-9856-d427f8ed795c)](https://tinyurl.com/4va6j4wa)
 
 ### 🧠 **The Case for a Music-First Streaming Platform**
 General media platforms attempt to cover everything, usually diluting the experience. **Spotify** is engineered for a single objective: flawless music discovery and playback. Open it once, and experience it perform like a personal music curator:
